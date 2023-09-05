@@ -10,7 +10,9 @@ The journey of a hundred days is all about relentless dedication and continuous 
 
 - Day 1:  
   - Code 1: [Scheduling] (https://unstop.com/code/challange-asesment/250752?moduleId=372)
-- ...
+- Day 3:  
+  - Code 2: [Mocha’s Alien dictionary] (https://unstop.com/code/challange-asesment/250171?moduleId=407)
+  - Code 3: [City Biker] (https://unstop.com/code/challange-asesment/250171?moduleId=407)
 
 The progress will be updated daily, and you can explore each day's problem and solution in detail.
 
