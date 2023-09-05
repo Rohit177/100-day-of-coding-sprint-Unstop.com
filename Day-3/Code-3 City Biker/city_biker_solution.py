@@ -1,15 +1,12 @@
-# Code
-```
-class Solution(object):
-    def largestAltitude(self, gain):
-        highest = 0
-        current_altitude = 0
+def highestAltitude(gain):
+    gain = [0] + gain 
+    for i in range(1, len(gain)):
+      gain[i] += gain[i-1]
 
-        for alt_gain in gain:
-            current_altitude += alt_gain
-            highest = max(highest, current_altitude)
+    return max(gain)
 
-        return highest
+n = int(input())
+gain = list(map(int, input().split()))
 
-        
-```
+result = highestAltitude(gain)
+print(result)
