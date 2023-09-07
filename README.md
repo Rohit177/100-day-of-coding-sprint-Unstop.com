@@ -13,6 +13,10 @@ The journey of a hundred days is all about relentless dedication and continuous 
 - Day 3:  
   - Code 2: [Mocha’s Alien dictionary] (https://unstop.com/code/challange-asesment/250171?moduleId=407)
   - Code 3: [City Biker] (https://unstop.com/code/challange-asesment/250171?moduleId=407)
+- Day 4:  
+  - Code 2: [AB string] (https://unstop.com/code/challange-asesment/250489?moduleId=408)
+  - Code 3: [City Biker] (https://unstop.com/code/challange-asesment/250171?moduleId=407)
+
 
 The progress will be updated daily, and you can explore each day's problem and solution in detail.
 
