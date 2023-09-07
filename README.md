@@ -15,7 +15,7 @@ The journey of a hundred days is all about relentless dedication and continuous 
   - Code 3: [City Biker] (https://unstop.com/code/challange-asesment/250171?moduleId=407)
 - Day 4:  
   - Code 2: [AB string] (https://unstop.com/code/challange-asesment/250489?moduleId=408)
-  - Code 3: [City Biker] (https://unstop.com/code/challange-asesment/250171?moduleId=407)
+  - Code 3: [Am i N repeated in 2N ?] (https://unstop.com/code/challange-asesment/250490?moduleId=408)
 
 
 The progress will be updated daily, and you can explore each day's problem and solution in detail.
