@@ -4,7 +4,7 @@ The intuition behind this code is to find the longest palindromic substring with
 # Approach
 The approach used in this code is to iterate through the input string character by character and check for palindromic substrings. This is done by expanding around each character, treating it as a potential center of a palindrome, and comparing characters to the left and right.
 
-# Explain
+# Explaination
 1. Input the desired string.
 2. Initialize variables to keep track of the maximum palindrome length (initialized to 1) and the start index of the longest palindrome.
 3. Iterate through the string from the second character to the second-to-last character (inclusive).
