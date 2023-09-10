@@ -7,6 +7,12 @@ Exchange Gift 🎁
     <img src="https://img.shields.io/badge/Python-3.8%2B-blue" alt="Python Version">
   </a>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Data%20Structures-lightgrey" alt="Data Structures">
+  <img src="https://img.shields.io/badge/-Lists-brightgreen" alt="Lists">
+  <img src="https://img.shields.io/badge/-Dictionaries-orange" alt="Dictionaries">
+  <img src="https://img.shields.io/badge/-Loops-blue" alt="Loops">
+</p>
 
 
 ## Intuition 🤔
