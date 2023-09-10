@@ -1,9 +1,13 @@
 <h1 align="center">
 Exchange Gift 🎁
 </h1>
+
 <p align="center">
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/downloads/release/python-380/)
+  <a href="https://www.python.org/downloads/release/python-380/">
+    <img src="https://img.shields.io/badge/Python-3.8%2B-blue" alt="Python Version">
+  </a>
 </p>
+
 
 ## Intuition 🤔
 The problem is about finding the youngest family member in a family based on the gift exchange data.
