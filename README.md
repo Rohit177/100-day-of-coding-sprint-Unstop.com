@@ -20,7 +20,7 @@ The journey of a hundred days is all about relentless dedication and continuous 
   - Code 1: [Ravi Caught in Strings] (https://unstop.com/code/challange-asesment/250143?moduleId=409)
   - Code 2: [Exchanging Gifts] (https://unstop.com/code/challange-asesment/250196?moduleId=409)
   - Code 3: [AND Triplets] (https://unstop.com/code/challange-asesment/250608?moduleId=409)
-  - Code 4: [Exchanging Gifts] (https://unstop.com/code/challange-asesment/250196?moduleId=409)
+  - Code 4: [Exchanging Gifts] (https://unstop.com/code/challange-asesment/250404?moduleId=409)
 
 
 The progress will be updated daily, and you can explore each day's problem and solution in detail.
