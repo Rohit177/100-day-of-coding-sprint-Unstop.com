@@ -13,7 +13,7 @@ Frequency of one 📝
   <img src="https://img.shields.io/badge/-Lists-brightgreen" alt="Lists">
   <img src="https://img.shields.io/badge/-Dictionaries-orange" alt="Dictionaries">
   <img src="https://img.shields.io/badge/-Loops-blue" alt="Loops">
-  <img src="https://img.shields.io/badge/-Loops-purple" alt="Bits">
+  <img src="https://img.shields.io/badge/-Bits-purple" alt="Bits">
 </p>
 
 
