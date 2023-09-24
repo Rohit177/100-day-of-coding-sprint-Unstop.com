@@ -1,3 +1,23 @@
+
+<h1 align="center">
+Jumping Stairs 📝
+</h1>
+
+<p align="center">
+  <a href="https://www.python.org/downloads/release/python-380/">
+    <img src="https://img.shields.io/badge/Python-3.8%2B-blue" alt="Python Version">
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Data%20Structures-lightgrey" alt="Data Structures">
+  <img src="https://img.shields.io/badge/-Algorithms-orange" alt="Algorithms">
+  <img src="https://img.shields.io/badge/-Lists-brightgreen" alt="Lists">
+  <img src="https://img.shields.io/badge/-Loops-blue" alt="Loops">
+</p>
+
+
+
+
 # Code Documentation 📝
 
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/downloads/)
